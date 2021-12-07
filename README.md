@@ -13,3 +13,7 @@ pip install random
 python3 run.py
 ```
 
+## Output
+![This is an image](https://github.com/kavisurya/simple-cli-handcricket/blob/main/gh3.png)
+
+
